@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+
+.icons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+
+.icon {
+    height: 50px;
+}

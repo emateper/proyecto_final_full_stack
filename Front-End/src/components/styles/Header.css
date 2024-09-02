@@ -1,0 +1,12 @@
+.header {
+    background-color: blueviolet;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+  }
+
+.header img {
+  width: 75px;
+  height: 75px;
+}
